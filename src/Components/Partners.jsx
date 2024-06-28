@@ -1,3 +1,5 @@
+import "../Styles/Components/Partners.css";
+
 const Partners = () => {
   return (
     <article className="partners-container">

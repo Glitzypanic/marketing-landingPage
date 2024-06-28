@@ -1,3 +1,5 @@
+import "../Styles/Components/Hero.css";
+
 const Hero = () => {
   return (
     <article className="hero-container">
