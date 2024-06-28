@@ -1,0 +1,29 @@
+/* Partners Styles */
+.partners-container {
+  background: #fafafa;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 552px;
+  margin: 0 auto;
+  & .partners-title {
+    font-size: 2.25rem;
+    margin-top: 78px;
+    margin-bottom: 100px;
+    font-weight: 400;
+  }
+}
+
+.partners-container {
+  display: flex;
+  flex-direction: column;
+  .partners-top {
+    display: flex;
+    margin-bottom: 94px;
+    gap: 80px;
+  }
+  .partners-bottom {
+    display: flex;
+    gap: 80px;
+  }
+}

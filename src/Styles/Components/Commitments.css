@@ -1,0 +1,30 @@
+.commit-container {
+  display: flex;
+}
+
+.commit-containerL {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid red;
+  width: 50%;
+}
+
+.commit-containerR {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid red;
+  width: 50%;
+}
+
+.commit-top {
+  display: flex;
+  gap: 80px;
+  margin-bottom: 94px;
+  border: 1px solid red;
+}
+
+.commit-bottom {
+  display: flex;
+  gap: 80px;
+  border: 1px solid red;
+}
