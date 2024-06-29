@@ -7,7 +7,12 @@
   font-size: 16px;
 }
 
-main {
+.header-main {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.work-main {
   max-width: 1200px;
   margin: 0 auto;
 }
