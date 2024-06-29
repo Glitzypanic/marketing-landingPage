@@ -1,0 +1,57 @@
+.banner-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 573px;
+}
+
+.banner {
+  display: flex;
+  align-items: center;
+
+  width: 100%;
+  height: 371px;
+
+  border-radius: 32px;
+
+  color: white;
+  background: #3561ff;
+  background-image: url("/public/svg/backgroundGradient.svg");
+  background-repeat: no-repeat;
+  & .banner-left {
+    width: 50%;
+
+    padding: 0 60px;
+    & .banner-left__title {
+      font-size: 4rem;
+      font-weight: 400;
+
+      width: 393px;
+    }
+  }
+  & .banner-right {
+    width: 50%;
+    padding: 0 60px;
+    & .banner-right__description {
+      font-size: 1.25rem;
+
+      width: 475px;
+    }
+    & .banner-right__button {
+      width: 201px;
+      height: 64px;
+
+      margin-top: 32px;
+      padding: 10px 20px;
+      border-radius: 64px;
+      border: none;
+
+      background: white;
+      color: black;
+
+      font-size: 1.5rem;
+      cursor: pointer;
+    }
+  }
+}
