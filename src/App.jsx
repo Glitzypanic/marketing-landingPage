@@ -7,6 +7,7 @@ import NavBar from "./Components/NavBar";
 import OurTeam from "./Components/OurTeam";
 import OurWork from "./Components/OurWork";
 import Partners from "./Components/Partners";
+import Testimonial from "./Components/Testimonial";
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
         <OurWork />
         <Banner1 />
         <OurTeam />
+        <Testimonial />
       </section>
     </main>
   );
