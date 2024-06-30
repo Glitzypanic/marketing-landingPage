@@ -35,6 +35,7 @@
     padding: 0 60px;
     & .banner-right__description {
       font-size: 1.25rem;
+      line-height: 40px;
 
       width: 475px;
     }
