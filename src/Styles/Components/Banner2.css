@@ -1,0 +1,62 @@
+.banner-section {
+  display: flex;
+  align-items: center;
+
+  height: 700px;
+}
+
+.banner-section__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  background-image: url("/svg/backgroundSquare.svg");
+  background-color: #232038;
+
+  width: 100%;
+  height: 455px;
+
+  padding: 80px;
+  border-radius: 55px;
+}
+
+.banner-title {
+  font-size: 3.5rem;
+  font-weight: 500;
+  line-height: 63px;
+
+  color: white;
+
+  width: 521px;
+}
+
+.start-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 1.5rem;
+
+  background: #3461ff;
+  color: white;
+
+  width: 210px;
+  height: 64px;
+  margin-top: 80px;
+
+  border-radius: 69px;
+  border: none;
+}
+
+.banner-images {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background: #e0ff22;
+
+  width: 352px;
+  height: 352px;
+  gap: 15px;
+  border-radius: 100%;
+}
