@@ -8,6 +8,8 @@ import OurTeam from "./Components/OurTeam";
 import OurWork from "./Components/OurWork";
 import Partners from "./Components/Partners";
 import Testimonial from "./Components/Testimonial";
+import Banner2 from "./Components/Banner2";
+import Help from "./Components/Help";
 
 function App() {
   return (
@@ -25,7 +27,11 @@ function App() {
         <OurWork />
         <Banner1 />
         <OurTeam />
-        <Testimonial />
+        <section className="testimonial-main">
+          <Testimonial />
+        </section>
+        <Banner2 />
+        <Help />
       </section>
     </main>
   );
