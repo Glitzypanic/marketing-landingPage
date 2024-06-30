@@ -1,0 +1,23 @@
+.work-card__container {
+  display: flex;
+  gap: 32px;
+  & .work-card__image {
+    width: 106px;
+    height: 106px;
+  }
+}
+
+.work-card__title {
+  font-size: 2rem;
+}
+
+.work-card__description {
+  font-size: 1.125rem;
+  line-height: 32px;
+  opacity: 60%;
+}
+
+.work-card__cards {
+  width: 50%;
+  gap: 32px;
+}
