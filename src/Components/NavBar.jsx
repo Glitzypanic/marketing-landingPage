@@ -4,7 +4,11 @@ const NavBar = () => {
   return (
     <nav className="main-nav">
       <div className="main-nav__container">
-        <img className="main-nav__logo" src="/Logo.png" alt="Company Logo" />
+        <img
+          className="main-nav__logo"
+          src="/img/Logo.png"
+          alt="Company Logo"
+        />
         <ul className="main-nav__menu">
           <li>How it Works</li>
           <li> Our Work</li>
