@@ -11,7 +11,7 @@ const HowWorks = () => {
           is to work closely with our clients to understand their goals and
           challenges.
         </p>
-        <img className="work-container__image" src="/work.png" alt="" />
+        <img className="work-container__image" src="/img/work.png" alt="" />
       </article>
       <article className="work-container__cards">
         <WorkCard
@@ -19,7 +19,7 @@ const HowWorks = () => {
             title: "Discovery",
             description:
               "We meet with you to learn about your business, your goals, and your target audience.",
-            image: "/discovery.png",
+            image: "/img/discovery.png",
           }}
         />
         <WorkCard
@@ -27,7 +27,7 @@ const HowWorks = () => {
             title: "Strategy",
             description:
               "We develop a customized marketing strategy that is based on your unique needs and goals.",
-            image: "/strategy.png",
+            image: "/img/strategy.png",
           }}
         />
         <WorkCard
@@ -35,7 +35,7 @@ const HowWorks = () => {
             title: "Execution",
             description:
               "We execute our strategy using the latest digital marketing tools and techniques.",
-            image: "/execution.png",
+            image: "/img/execution.png",
           }}
         />
         <WorkCard
@@ -43,7 +43,7 @@ const HowWorks = () => {
             title: "Measurement",
             description:
               "We track the results of our campaigns so that we can make adjustments as needed.",
-            image: "/measurement.png",
+            image: "/img/measurement.png",
           }}
         />
       </article>
