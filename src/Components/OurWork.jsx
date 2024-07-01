@@ -7,15 +7,15 @@ const OurWork = () => {
       <span className="our-work__subtitle">A glimpse of our portfolio</span>
       <article className="our-work__portfolio">
         <div className="our-work__item">
-          <img src="/apple.png" alt="Macbook image" />
+          <img src="/img/apple.png" alt="Macbook image" />
           <h3 className="our-work__name">Apple</h3>
         </div>
         <div className="our-work__item">
-          <img src="/cocacola.png" alt="Coca-cola image" />
+          <img src="/img/cocacola.png" alt="Coca-cola image" />
           <h3 className="our-work__name">Coca-Cola</h3>
         </div>
         <div className="our-work__item">
-          <img src="nike.png" alt="Nike shoes image" />
+          <img src="/img/nike.png" alt="Nike shoes image" />
           <h3 className="our-work__name">Nike</h3>
         </div>
       </article>
