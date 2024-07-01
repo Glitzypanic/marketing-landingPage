@@ -19,6 +19,8 @@
   }
   & .team-right__description {
     font-size: 1.125rem;
+    line-height: 32px;
+    text-wrap: pretty;
     opacity: 60%;
 
     width: 486px;

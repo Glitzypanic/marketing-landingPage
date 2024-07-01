@@ -4,7 +4,7 @@ const OurTeam = () => {
   return (
     <section className="team-container">
       <div className="team-left">
-        <img className="team-image" src="/team.png" alt="Team image" />
+        <img className="team-image" src="/img/team.png" alt="Team image" />
       </div>
       <div className="team-right">
         <h2 className="team-right__title">Meet Our Team</h2>
