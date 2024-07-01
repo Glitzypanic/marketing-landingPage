@@ -1,0 +1,31 @@
+.footer {
+  display: flex;
+  color: white;
+  background: black;
+
+  height: 119px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 1200px;
+  margin: 0 auto;
+  & p {
+    font-size: 0.875rem;
+  }
+}
+
+.terms-container {
+  display: flex;
+  gap: 125px;
+}
+
+.terms {
+  font-size: 0.875rem;
+  color: white;
+
+  text-decoration: none;
+}
