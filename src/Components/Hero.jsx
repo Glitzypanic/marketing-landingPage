@@ -20,7 +20,7 @@ const Hero = () => {
       <section className="brand-care__visual">
         <img
           className="brand-care__image"
-          src="/Hero.png"
+          src="/img/Hero.png"
           alt="Brand Ilustration"
         />
       </section>
