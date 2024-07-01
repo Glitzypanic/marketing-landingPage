@@ -31,7 +31,9 @@ const Commitents = () => {
             your goals and create a strategy that will achieve them.
           </p>
         </div>
-        <a href="#">Learn More</a>
+        <a href="#">
+          Learn More <img src="/svg/arrow.svg" alt="Arrow icon" />
+        </a>
       </article>
     </section>
   );
