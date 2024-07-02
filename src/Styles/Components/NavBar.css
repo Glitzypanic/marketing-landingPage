@@ -14,6 +14,10 @@
     list-style: none;
 
     gap: 40px;
+    & a {
+      text-decoration: none;
+      color: black;
+    }
   }
   & .main-nav__cta {
     font-size: 16px;
