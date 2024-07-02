@@ -46,6 +46,8 @@
 
   border-radius: 69px;
   border: none;
+
+  cursor: pointer;
 }
 
 .banner-images {
