@@ -10,10 +10,18 @@ const NavBar = () => {
           alt="Company Logo"
         />
         <ul className="main-nav__menu">
-          <li>How it Works</li>
-          <li> Our Work</li>
-          <li>Pricing</li>
-          <li>About Us</li>
+          <li>
+            <a href="#">How it Works</a>
+          </li>
+          <li>
+            <a href="#">Our Work</a>
+          </li>
+          <li>
+            <a href="#">Pricing</a>
+          </li>
+          <li>
+            <a href="#">About Us</a>
+          </li>
         </ul>
         <button className="main-nav__cta">Book A Call</button>
       </div>
