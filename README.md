@@ -1,51 +1,52 @@
 # Marketing Agency Landing Page ✅
 
-Este proyecto es una práctica de mis habilidades en CSS y React, utilizando el diseño de Muhammad Aqsath Faza. ✨
+This project is a practice of my CSS and React skills, using the design by Muhammad Aqsath Faza. ✨
 
 ![Shots create mockups](https://github.com/Glitzypanic/marketing-landingPage/assets/133188693/a503ec01-3e0f-46f6-9219-f69994a64be7)
 
-## Tecnologías utilizadas 👨🏻‍💻
+## Technologies Used 👨🏻‍💻
 
-En este proyecto he implementado las siguientes tecnologías:
+In this project, I have implemented the following technologies:
 
-- React para la construcción de la interfaz de usuario
-- Vite como herramienta de desarrollo y construcción
-- SWC para una rápida transpilación de JavaScript
-- ESLint para el análisis estático del código
-- pnpm para la gestión de paquetes
-- CSS para el estilizado de componentes
+- React for building the user interface
+- Vite as a development and build tool
+- SWC for fast JavaScript transpilation
+- ESLint for static code analysis
+- pnpm for package management
+- CSS for styling components
 
-Esta combinación me ha permitido desarrollar una aplicación web moderna y eficiente, aprovechando las ventajas de cada herramienta para optimizar tanto el proceso de desarrollo como el rendimiento final del proyecto.
+This combination has allowed me to develop a modern and efficient web application, leveraging the benefits of each tool to optimize both the development process and the final performance of the project.
 
-## Instalación y configuración 🧰
+## Installation and Setup 🧰
 
-### Requisitos previos 🚧
+### Prerequisites 🚧
 
-Asegúrate de tener instalado [Node.js](https://nodejs.org/) (v12.x o superior) y [pnpm](https://pnpm.io/) en tu sistema para manejar las dependencias y ejecutar scripts.
+Make sure you have Node.js (v12.x or higher) and pnpm installed on your system to manage dependencies and run scripts.
 
-1. Clona este repositorio:
+1. Clone this repository:
 
    ```bash
    git clone https://github.com/Glitzypanic/marketing-landingPage.git
 
-2. Navega al directorio del proyecto:
+2. Navigate to the proyect directory:
 
    ```bash
    cd marketing-landingPage
 
-3. Instala las dependencias:
+3. Install the dependencies:
 
    ```bash
    pnpm install
 
-4. Ejecuta el proyecto:
+4. Run the project:
 
    ```bash
    pnpm run dev
 
-## Créditos del Diseño ⭐
-El diseño utilizado en este proyecto es obra de Muhammad Aqsath Faza, a quien agradezco por proporcionar este increíble recurso de manera gratuita. Pueden encontrar más de su trabajo en los siguientes enlaces:
+## Design Credits ⭐
 
-Correo: faza.aqsath@gmail.com
+The design used in this project is the work of Muhammad Aqsath Faza, to whom I am thankful for providing this incredible resource for free. You can find more of his work at the following links:
+
+Email: faza.aqsath@gmail.com
 [Dribbble] (https://dribbble.com/aqsathfaza/)
 [Behance] (https://www.behance.net/aqsath)
